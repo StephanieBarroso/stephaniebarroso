@@ -1,6 +1,6 @@
 ### Olá! Eu sou Stephanie Barroso 👋
 
-- 🔭 Procurando estágio em Analise e Desenvolvimento de Sistemas
+- 🔭 Analise e Desenvolvimento de Sistemas - IPE Manaus
 - 🌱 Estou aprendendo Python e Teste de Software
 - 😄 Pronouns: ela/dela
 
